@@ -8,8 +8,6 @@ This project was made to create a simple web application to help guide my course
 ## Installation
 N/A
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
 ## Usage
 
 Each Section will contain notes on various topics that we will cover in this course. We can also utillize the dev console in Chrome to see JS functions at work.
